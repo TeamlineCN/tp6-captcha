@@ -1,10 +1,10 @@
 {
-  "name": "yiovo/tp6-captcha",
+  "name": "TeamlineCN/tp6-captcha",
   "description": "tp6-captcha",
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "yiovo",
+      "name": "TeamlineCN",
       "email": "developer@yiovo.com"
     }
   ],
@@ -13,12 +13,12 @@
     "ext-mbstring": "*",
     "ext-gd": "*",
     "topthink/framework": "^8.0.0",
-    "yiovo/tp6-cache": "^1.0"
+    "TeamlineCN/tp6-cache": "^1.0"
   },
   "homepage": "https://github.com/yiovo/tp6-captcha",
   "autoload": {
     "psr-4": {
-      "yiovo\\captcha\\": "src/"
+      "teamline\\captcha\\": "src/"
     }
   },
   "extra": {
