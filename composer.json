@@ -5,7 +5,7 @@
   "authors": [
     {
       "name": "TeamlineCN",
-      "email": "developer@yiovo.com"
+      "email": "developer@teamline.com"
     }
   ],
   "require": {
@@ -15,7 +15,7 @@
     "topthink/framework": "^8.0.0",
     "TeamlineCN/tp6-cache": "^1.0"
   },
-  "homepage": "https://github.com/yiovo/tp6-captcha",
+  "homepage": "https://github.com/TeamlineCN/tp6-captcha",
   "autoload": {
     "psr-4": {
       "teamline\\captcha\\": "src/"
